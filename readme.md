@@ -1,3 +1,4 @@
+```
 funnel-analysis-project/
 ├── README.md
 ├── sql/
@@ -14,3 +15,4 @@ funnel-analysis-project/
 ├── images/
 │   └── (screenshots of dashboard, sankey chart, etc.)
 └── requirements.txt             
+```
